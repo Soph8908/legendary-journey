@@ -1,4 +1,4 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]([https://codespaces.new/Soph8908/legendary-journey?quickstart=1](https://codespaces.new/Soph8908/legendary-journey))
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soph8908/legendary-journey)
 
 # legendary-journey
 
