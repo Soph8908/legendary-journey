@@ -1,5 +1,5 @@
-[![Open in Codespaces][(https://classroom.github.com/open-in-codespaces?assignment_repo_id=15620027)]]
-(Change link to code space)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soph8908/legendary-journey?quickstart=1)
+
 # legendary-journey
 
 This will have different codespaces for different things I have learned if DT using the 100 days code of Replit.
